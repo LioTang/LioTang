@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LioTang
-- 👀 I’m interested in game development
+- 👀 I’m interested in gameand web development
 - 🌱 I’m currently learning JQuery
 - 📫 How to reach me - Email liotang815@gmail.com
 
